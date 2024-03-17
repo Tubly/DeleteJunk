@@ -1,0 +1,9 @@
+## Interface: 100205
+## Title: |cffEEE4AEDelete Junk|r
+## Notes: |cff58C6FAAutomatically Delete Junk.|r
+## Author: Tubly
+## Version: 0.0.1
+## IconTexture: 134414
+# DefaultState: disabled
+
+DeleteJunk.xml
